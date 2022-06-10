@@ -11,5 +11,5 @@ Additions:
 - delete workout
 - edit workout data and position
 - delete all workouts
-- sort workouts (with form to chose parameter and direction of sorting). Sorting affects only order of elements in sidebar, workout arrays isn't mutated
-- modal wndow for confirmation of deleting anything
+- sort workouts (with form to chose parameter and direction of sorting). Sorting affects only order of elements in sidebar, workout array isn't mutated
+- modal window for confirmation of deleting anything
