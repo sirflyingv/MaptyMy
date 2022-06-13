@@ -2,7 +2,7 @@
 
 https://sirflyingv.github.io/MaptyMy/
 
- My version of Jonas Schmedtmann's JS course project Mapty
+ My version of [Jonas Schmedtmann's JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/) project Mapty
 
 Additions:
 - "View all" button for fitting all workouts in viewport
